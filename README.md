@@ -39,7 +39,7 @@
 
 I am a Computer Science and Engineering graduate focused on building reliable, scalable, and well-tested software systems. My engineering foundation is built around Python, Java, SQL, backend development, REST APIs, Spring Boot, testing, debugging, and Git-based collaboration.
 
-My work combines software engineering fundamentals with practical AI/ML implementation, including fraud detection, anomaly-focused pipelines, data preprocessing, feature engineering, model evaluation, and performance-driven experimentation. I enjoy developing systems that are clean, maintainable, measurable, and aligned with real product outcomes.
+My work combines software engineering fundamentals with practical AI/ML implementation, including fraud detection, data preprocessing, feature engineering, model evaluation, and performance-driven experimentation. I enjoy developing systems that are clean, maintainable, measurable, and aligned with real product outcomes.
 
 I approach engineering with a product-first mindset: understand the problem, design the workflow, build the system, validate the output, and improve reliability through testing and iteration.
 
@@ -93,8 +93,8 @@ I approach engineering with a product-first mindset: understand the problem, des
 | Fraud Detection | Intermediate | Developed Ethereum transaction classification workflow using supervised ML models |
 | Model Evaluation | Intermediate | Evaluated models using accuracy, ROC-AUC, test splits, and performance metrics |
 | Imbalanced Data Handling | Intermediate | Applied SMOTE to balance fraud and non-fraud transaction classes |
-| Explainable AI | Foundational | Exposure to interpretable ML concepts and anomaly-focused decision support |
 | Python ML Ecosystem | Intermediate | Practical experience with Python-based data handling and ML workflows |
+| Software Engineering for ML | Foundational | Focused on readable code, structured pipelines, debugging, and repeatable evaluation |
 
 ---
 
@@ -218,44 +218,16 @@ Built multiple software engineering projects across backend development, Python 
 
 <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20%26%20SQL%20Foundations-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science%20Learning-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
-
 ### Cisco
 
 <img src="https://img.shields.io/badge/Cisco-Cyber%20Security-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" />
 
-### Additional Professional Certifications
+### Professional Certifications
 
-<img src="https://img.shields.io/badge/PwC-Cyber%20Risk%20%26%20Regulatory-8B5CF6?style=for-the-badge&logo=pwc&logoColor=white" />
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20%26%20Cyber%20Security-312E81?style=for-the-badge&logo=deloitte&logoColor=white" />
-<img src="https://img.shields.io/badge/Infosys-Python%20%26%20Java%20Programming-4338CA?style=for-the-badge&logo=infosys&logoColor=white" />
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=A78BFA" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/PwC-Cyber%20Risk%20%26%20Regulatory-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20%26%20Cyber%20Security-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infosys-Python%20Programming-4338CA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infosys-Java%20Programming-4F46E5?style=for-the-badge" />
 
 ---
 
@@ -273,31 +245,11 @@ Built multiple software engineering projects across backend development, Python 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sindy918&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindy918&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sindy918/sindy918/output/snake.svg" alt="Snake animation" />
 
 </div>
 
