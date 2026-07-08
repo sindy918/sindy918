@@ -255,6 +255,20 @@ Built multiple software engineering projects across backend development, Python 
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sindy918/sindy918/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sindy918/sindy918/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sindy918/sindy918/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## Current Focus
 
 ```yaml
